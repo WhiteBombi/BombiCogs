@@ -12,7 +12,7 @@ class Countdown:
     async def countdown(self, deadline, link, *, eventname):
         '''Shows time remaining for an event.
 
-           Usage: [p]countdown YYMMDDHHMM(Year, Month, Day, Hour, Minute) Event name
+           Usage: [p]countdown YYMMDDHHMM(Year, Month, Day, Hour, Minute) https://goo.gl Event name
 
            Calculation will use GMT time, so adjust your time machine reading skills accordingly.
 
