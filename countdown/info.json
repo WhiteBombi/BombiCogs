@@ -1,0 +1,9 @@
+{
+    "AUTHOR" : "WhiteBombo",
+    "INSTALL_MSG" : "Thank you for installing countdown. See how to use it with [p]countdown",
+    "NAME" : "countdown",
+    "SHORT" : "Shows time remaining for an event.",
+    "DESCRIPTION" : "Shows time remaining for an event.\\n\\nUsage: [p]countdown YYMMDDHHMM(Year, Month, Day, Hour, Minute) Event name\\n\\nCalculation will use GMT time, so adjust your time machine reading skills accordingly.\\n\\nHint: Designed to work with aliases. Example:\\n!alias add nextstream countdown 1801011200 http://www.twitch.tv/whitebombo Next stream\\n!nextstream",
+    "TAGS" : ["timer", "countdown", "event", "link"],
+    "HIDDEN" : false
+}
