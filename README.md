@@ -10,3 +10,5 @@
 ```
 [p]cog install BomboCogs countdown
 ```
+
+More guides in the [Wiki](https://github.com/WhiteBombo/BomboCogs/wiki)
