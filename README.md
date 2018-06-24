@@ -1,14 +1,14 @@
-# BomboCogs -  Cogs for [Red - DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot)
+# BombiCogs -  Cogs for [Red - DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot)
 
 ## Install repository:
 
 ```
-[p]cog repo add BomboCogs https://github.com/WhiteBombo/BomboCogs
+[p]cog repo add BombiCogs https://github.com/WhiteBombi/BombiCogs
 ```
 
 ## Install cogs:
 ```
-[p]cog install BomboCogs countdown
+[p]cog install BombiCogs countdown
 ```
 
-More guides in the [Wiki](https://github.com/WhiteBombo/BomboCogs/wiki)
+More guides in the [Wiki](https://github.com/WhiteBombi/BomboCogs/wiki)
